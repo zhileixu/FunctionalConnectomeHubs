@@ -17,6 +17,6 @@ ax.set_ylim([-0.05, 1.55])
 ax.set_yticks([ 0, 0.5, 1, 1.5 ])
 
 fig.subplots_adjust(left=0.04, bottom=0.04, right=0.99, top=0.99)
-fig.savefig(r"\FunctionalConnectomeHubs\Figure4\Figure4C\Contribution.tiff", dpi=600)
+fig.savefig(r"\FunctionalConnectomeHubs\Figure4\Figure4C\Contribution.pdf")
 
 pyplot.show()

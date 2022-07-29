@@ -3,6 +3,8 @@ FunctionalConnectomeHubs
 
 Date 11/4/2022
 
+First revision date 30/7/2022
+
 E-mail: zhileixu@163.com
 
 ##
@@ -76,4 +78,4 @@ Code for generating surrogate maps of the hub distribution map in Figure 2B and 
 ##
 Figure Folder: 
 
-Code, source NIfTI file, and source data of the Figures 1 to 7 and Figures S1 to S9 in the article.
+Code, source NIfTI file, and source data of the Figures 1 to 6 and Figures S1 to S11 in the article.
