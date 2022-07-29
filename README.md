@@ -73,7 +73,7 @@ Code Folder:
 ##
 SurrogateMap Folder: 
 
-Code for generating surrogate maps of the hub distribution map in Figure 2B and Figure S9A.
+Code for generating surrogate maps of the hub distribution map in Figure 2B and Figure S10A.
 
 ##
 Figure Folder: 
