@@ -5,12 +5,12 @@ Date 11/4/2022
 
 First revision date 30/7/2022
 
+Final revision date 16/9/2022
+
 E-mail: zhileixu@163.com
 
 ##
-This repository provides code and source data that support the findings of the article entitled "Mapping Consistent, Reproducible, and Transcriptionally Relevant Functional Connectome Hubs of the Human Brain" by Xu et al.
-
-A preprint of the article is available at https://doi.org/10.1101/2021.11.29.470494
+This repository provides code and source data that support the findings of the article entitled "Meta-connectomic analysis maps consistent, reproducible, and transcriptionally-relevant functional connectome hubs in the human brain" by Xu et al. (2022) Communications Biology
 
 ##
 AHBAprocessed Folder:
@@ -73,9 +73,9 @@ Code Folder:
 ##
 SurrogateMap Folder: 
 
-Code for generating surrogate maps of the hub distribution map in Figure 2B and Figure S10A.
+Code for generating surrogate maps of the hub distribution map in Figure 1c and SupplementaryFigure 10a.
 
 ##
 Figure Folder: 
 
-Code, source NIfTI file, and source data of the Figures 1 to 6 and Figures S1 to S11 in the article.
+Code, source NIfTI file, and source data of the Figures 1 to 6 and Supplementary Figures 1 to 11 in the article.
